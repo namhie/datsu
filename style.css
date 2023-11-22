@@ -1396,6 +1396,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 
 	#fourth-section .slider .swiper.slider-left {
 		max-height: 100%;
+		padding-bottom: 1px;
 	}
 
 	#fourth-section .slider .swiper.slider-left .swiper-slide .slider-img {
@@ -1408,6 +1409,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 	}
 
 	#fifth-section .circle-block {
+		padding-bottom: 0;
 		width: 260px;
 		height: 260px;
 	}
