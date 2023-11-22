@@ -1285,7 +1285,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 }
 
 @media (max-width:992px) {
-	body {
+	/* body {
 		overflow-y: scroll;
 		overflow-x: hidden;
 		height: 100%;
@@ -1301,20 +1301,20 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 	.slider-main {
 		overflow-y: scroll;
 		overflow-x: hidden;
-	}
+	} */
 
-	.slider-main>.swiper-wrapper {
+	/* .slider-main>.swiper-wrapper {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
 		-ms-flex-direction: column;
 		flex-direction: column;
 		height: 100%;
-	}
+	} */
 
-	.slider {
+	/* .slider {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-	}
+	} */
 
 	.title-left {
 		top: 70px;
