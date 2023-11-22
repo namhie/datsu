@@ -1290,18 +1290,18 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 		overflow-x: hidden;
 		height: 100%;
 	}
-
+	*/
 	.wrapper {
-		overflow-y: scroll;
-		overflow-x: hidden;
+		/* overflow-y: scroll;
+		overflow-x: hidden; */
 		height: 100%;
 		min-height: 100vh;
 	}
-
+	
 	.slider-main {
 		overflow-y: scroll;
 		overflow-x: hidden;
-	} */
+	} 
 
 	.slider-main>.swiper-wrapper {
 		-webkit-box-orient: vertical;
