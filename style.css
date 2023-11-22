@@ -1415,9 +1415,9 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 	}
 
 	#fifth-section .circle-block .text-accent {
-		width: 50%;
+		width: 55%;
 	}
-	
+
 	.running-line {
 		margin-top: -142px;
 		border-bottom: 1px solid var(--default);
@@ -1665,6 +1665,10 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 		line-height: 1.1;
 	}
 
+	#fifth-section .circle-block .text-accent {
+		width: 50%;
+	}
+	
 	.footer {
 		min-height: 188px;
 	}
