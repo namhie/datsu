@@ -1564,6 +1564,10 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 		top: calc(100vh - 22rem);
 	}
 
+	.title-left {
+		top: 59px;
+	}
+
 	#first-section {
 		height: calc(100vh - 8rem);
 		margin-bottom: 2rem;
