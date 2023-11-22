@@ -1407,13 +1407,13 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 		border: none;
 	}
 
-	#fifth-section .circle-block {
+	/* #fifth-section .circle-block {
 		/* padding-bottom: 108px; */
-		background: #fff;
+		/* background: #fff;
 		-webkit-box-shadow: 0 3px 14px #c6c6c6;
-		box-shadow: 0 3px 14px #c6c6c6;
+		box-shadow: 0 3px 14px #c6c6c6; */
 		/* margin-top: -71px; */
-	}
+	/* } */ 
 
 	.running-line {
 		margin-top: -142px;
@@ -1528,12 +1528,12 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 		text-transform: capitalize;
 	}
 
-	#fifth-section .circle-block {
+	/* #fifth-section .circle-block {
 		padding-bottom: 0;
 		-webkit-box-shadow: none;
 		box-shadow: none;
 		margin-top: 30px;
-	}
+	} */
 }
 
 @media (max-width:680px) {
