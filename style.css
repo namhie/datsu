@@ -1414,6 +1414,10 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 		height: 260px;
 	}
 
+	#fifth-section .circle-block .text-accent {
+		width: 50%;
+	}
+	
 	.running-line {
 		margin-top: -142px;
 		border-bottom: 1px solid var(--default);
