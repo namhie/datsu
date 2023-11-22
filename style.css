@@ -973,10 +973,10 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 
 #fifth-section .circle-block {
 	position: absolute;
-	top: -180px;
+	top: -28px;
 	right: 10px;
-	padding-bottom: 2.3rem;
-	height: 340px;
+	padding-bottom: 1.3rem;
+	height: 170px;
 	width: 340px;
 }
 
@@ -1069,10 +1069,6 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 		max-width: 77.55rem;
 	}
 
-	#fifth-section .circle-block {
-		top: -180px;
-	}
-
 	.title {
 		font-size: calc(4px + 1.875vw);
 		line-height: 1;
@@ -1144,8 +1140,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 	}
 
 	#fifth-section .circle-block {
-		top: -209px;
-		padding-bottom: 1.6rem;
+		padding-bottom: 2rem;
 	}
 
 	#fifth-section .circle-block p {
