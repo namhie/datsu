@@ -537,7 +537,7 @@ get_header();
                   </div>
                 </div>
                 <div class="row collapse-block d-xl-none d-flex"> 
-                  <div class="col-xxl-5 col-lg-6 collapse-children">
+                  <div class="col-xxl-5 col-xl-6 collapse-children">
                     <div class="chart-block collapse multi-collapse show" id="collapseWidthExample1">
                       <div class="card card-body border-0"><img src="<?= get_stylesheet_directory_uri(); ?>/img/diagrama.png" alt="">
                         <div class="position-absolute top-50 start-50 translate-middle w-100 text-center">
