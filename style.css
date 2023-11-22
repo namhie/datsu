@@ -495,9 +495,9 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 	position: absolute;
 	margin: auto;
 	left: 0;
-	right: 5px;
+	right: 0;
 	top: 0;
-	bottom: 0;
+	bottom: 6px;
 	text-align: center;
 	content: "";
 	display: inline-block;
