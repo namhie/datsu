@@ -503,13 +503,18 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 	display: inline-block;
 	width: 18px;
 	height: 18px;
-	border-bottom: 4px solid #fff;
+	border-bottom: 3px solid #fff;
+	border-left: 3px solid #fff;
+	-webkit-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	/* border-bottom: 4px solid #fff;
 	border-left: 4px solid #fff;
 	border-right: 0;
 	border-top: 0;
 	-webkit-transform: rotate(227deg);
 	-ms-transform: rotate(227deg);
-	transform: rotate(227deg);
+	transform: rotate(227deg); */
 }
 
 .running-line {
@@ -890,7 +895,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 	height: 100%;
 }
 
-#fourth-section .slider .swiper.slider-left .swiper-slide.swiper-slide-thumb-active, #fourth-section .slider .swiper.slider-left .swiper-slide.swiper-slide-thumb-active .slider-desc, #fourth-section .slider .swiper.slider-left .swiper-slide:hover {
+#fourth-section .slider .swiper.slider-left .swiper-slide.swiper-slide-thumb-active, #fourth-section .slider .swiper.slider-left .swiper-slide.swiper-slide-thumb-active .slider-desc {
 	border-color: var(--bs-danger);
 	cursor: url(/wp-content/themes/datsu-site-vertical/img/svg/cursor-hover.svg),auto!important;
 }
@@ -1390,11 +1395,11 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 		height: 12px;
 		bottom: 5px;
 		right: 0;
-		border-bottom: 3px solid #fff;
+		/* border-bottom: 3px solid #fff;
 		border-left: 3px solid #fff;
 		-webkit-transform: rotate(-45deg);
 		-ms-transform: rotate(-45deg);
-		transform: rotate(-45deg);
+		transform: rotate(-45deg); */
 	}
 
 	#fourth-section .slider {
