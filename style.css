@@ -1507,7 +1507,11 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 
 	.slider-title,.title {
 		max-width: 290px;
-		font-size: calc(28px + 61.2 * (100vw - 320px)/ 1920);
+		font-size: calc(22px + 61.2 * (100vw - 320px)/ 1920);
+	}
+
+	.title-left {
+		top: 36px;
 	}
 
 	.title-right {
@@ -1515,7 +1519,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focu
 	}
 
 	.desc {
-		font-size: calc(18px + 17 * (100vw - 320px)/ 1920);
+		font-size: calc(14px + 17 * (100vw - 320px)/ 1920);
 	}
 
 	#fourth-section .slider .swiper.slider-left .swiper-slide {
